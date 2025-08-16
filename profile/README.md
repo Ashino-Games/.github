@@ -6,8 +6,8 @@ _A place where creativity bends but never breaks, growing freely in the open wil
 
 ## 🌱 About Us
 
-Ashino Games is an indie game studio founded from a love for storytelling, creativity, and playful worlds.  
-The name **Ashino (葦野)** was chosen by the founder after being inspired by the anime *Remake Our Life!* — a story that sparked the decision to take game development seriously and start building original projects.
+Ashino Games is an indie game studio founded from a passion for creating unique experiences and imaginative worlds.  
+The name **Ashino (葦野)** was chosen by the founder as a personal inspiration, after watching the anime *Remake Our Life!* — a story that became the spark to take game development seriously and begin building original projects.
 
 The kanji behind the name gives it an even deeper meaning:
 
